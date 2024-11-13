@@ -1,7 +1,17 @@
-.myslides{
-    height: 500px;
-    width: 100%;
+body{
+    background-color:olivedrab;
+    color: aliceblue;
 }
-img{
-    width: 200px;
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:yellowgreen;
+    background-color: black;
+}
+h1{
+    color: aqua;
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 67;
+    size: 1px;
 }

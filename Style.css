@@ -1,17 +1,27 @@
-body{
-    background-color:olivedrab;
-    color: aliceblue;
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
 }
-p{
+header {
+    background-color: #ff6347;
+    color: white;
+    padding: 10px;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color:yellowgreen;
-    background-color: black;
 }
-h1{
-    color: aqua;
-    background-color: blanchedalmond;
-    text-align: center;
-    padding: 67;
-    size: 1px;
+main {
+    padding: 20px;
+}
+h2 {
+    color: #ff6347;
+}
+.pizza-section {
+    margin: 20px 0;
+}
+.pizza-section img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
 }
